@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NBitcoin" Version="4.1.1.46" />
+    <PackageReference Include="Nethereum.HdWallet" Version="2.5.1" />
+    <PackageReference Include="Nethereum.Web3" Version="2.5.1" />
+  </ItemGroup>
+
+</Project>

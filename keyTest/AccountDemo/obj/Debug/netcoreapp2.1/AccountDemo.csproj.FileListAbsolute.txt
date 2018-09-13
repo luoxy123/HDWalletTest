@@ -1,0 +1,11 @@
+E:\dotnet\keyTest\AccountDemo\bin\Debug\netcoreapp2.1\AccountDemo.deps.json
+E:\dotnet\keyTest\AccountDemo\bin\Debug\netcoreapp2.1\AccountDemo.runtimeconfig.json
+E:\dotnet\keyTest\AccountDemo\bin\Debug\netcoreapp2.1\AccountDemo.runtimeconfig.dev.json
+E:\dotnet\keyTest\AccountDemo\bin\Debug\netcoreapp2.1\AccountDemo.dll
+E:\dotnet\keyTest\AccountDemo\obj\Debug\netcoreapp2.1\AccountDemo.csproj.CoreCompileInputs.cache
+E:\dotnet\keyTest\AccountDemo\obj\Debug\netcoreapp2.1\AccountDemo.AssemblyInfoInputs.cache
+E:\dotnet\keyTest\AccountDemo\obj\Debug\netcoreapp2.1\AccountDemo.AssemblyInfo.cs
+E:\dotnet\keyTest\AccountDemo\bin\Debug\netcoreapp2.1\AccountDemo.pdb
+E:\dotnet\keyTest\AccountDemo\obj\Debug\netcoreapp2.1\AccountDemo.dll
+E:\dotnet\keyTest\AccountDemo\obj\Debug\netcoreapp2.1\AccountDemo.pdb
+E:\dotnet\keyTest\AccountDemo\obj\Debug\netcoreapp2.1\AccountDemo.csprojAssemblyReference.cache

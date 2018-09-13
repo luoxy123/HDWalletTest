@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Administrator\.nuget\packages\nbitcoin\4.1.1.46\lib\netcoreapp2.1\NBitcoin.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Administrator\.nuget\packages\nbitcoin\4.1.1.10\lib\netcoreapp2.1\NBitcoin.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Administrator\.nuget\packages\nethereum.hdwallet\2.5.1\lib\netcoreapp2.1\Nethereum.HdWallet.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Administrator\.nuget\packages\nethereum.signer\2.5.1\lib\netcoreapp2.1\Nethereum.Signer.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Administrator\.nuget\packages\nethereum.hex\2.5.1\lib\netcoreapp2.1\Nethereum.Hex.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Administrator\.nuget\packages\nethereum.rpc\2.5.1\lib\netcoreapp2.1\Nethereum.RPC.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Administrator\.nuget\packages\nethereum.web3\2.5.1\lib\netcoreapp2.1\Nethereum.Web3.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

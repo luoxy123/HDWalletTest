@@ -1,0 +1,11 @@
+E:\dotnet\keyTest\bin\Debug\netcoreapp2.1\keyTest.deps.json
+E:\dotnet\keyTest\bin\Debug\netcoreapp2.1\keyTest.runtimeconfig.json
+E:\dotnet\keyTest\bin\Debug\netcoreapp2.1\keyTest.runtimeconfig.dev.json
+E:\dotnet\keyTest\bin\Debug\netcoreapp2.1\keyTest.dll
+E:\dotnet\keyTest\bin\Debug\netcoreapp2.1\keyTest.pdb
+E:\dotnet\keyTest\obj\Debug\netcoreapp2.1\keyTest.csprojAssemblyReference.cache
+E:\dotnet\keyTest\obj\Debug\netcoreapp2.1\keyTest.csproj.CoreCompileInputs.cache
+E:\dotnet\keyTest\obj\Debug\netcoreapp2.1\keyTest.AssemblyInfoInputs.cache
+E:\dotnet\keyTest\obj\Debug\netcoreapp2.1\keyTest.AssemblyInfo.cs
+E:\dotnet\keyTest\obj\Debug\netcoreapp2.1\keyTest.dll
+E:\dotnet\keyTest\obj\Debug\netcoreapp2.1\keyTest.pdb
